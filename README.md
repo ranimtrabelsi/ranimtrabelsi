@@ -113,17 +113,14 @@
 <br clear="both">
 
 <div align="center">
-  <!-- Statistiques générales GitHub -->
   <img src="https://github-readme-stats.vercel.app/api?username=slm&show_icons=true&count_private=true&theme=vue-dark&custom_title=Trabelsi%20Ranim's%20GitHub%20Stats" height="170" alt="stats graph" />
 
-  <!-- Langages les plus utilisés sans Jupyter ni Ruby -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slm&langs_count=10&layout=compact&theme=vue-dark&hide=Jupyter%20Notebook,Ruby&custom_title=Top%20Languages%20Used" height="170" alt="top languages graph" />
 
-  <!-- Streak -->
   <img src="https://streak-stats.demolab.com?user=slm&theme=vue-dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&custom_title=GitHub%20Streak" height="170" alt="streak graph" />
 
-  <!-- Activité graphique -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=slm&theme=gotham&area=true&hide_border=false&custom_title=Trabelsi%20Ranim's%20Contribution%20Graph" height="300" alt="activity graph" />
 </div>
+
 
 
