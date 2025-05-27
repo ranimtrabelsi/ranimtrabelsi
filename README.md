@@ -113,14 +113,13 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=slm&show_icons=true&count_private=true&theme=vue-dark&custom_title=Trabelsi%20Ranim's%20GitHub%20Stats" height="170" alt="stats graph" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slm&langs_count=10&layout=compact&theme=vue-dark&hide=Jupyter%20Notebook,Ruby&custom_title=Top%20Languages%20Used" height="170" alt="top languages graph" />
-
-  <img src="https://streak-stats.demolab.com?user=slm&theme=vue-dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&custom_title=GitHub%20Streak" height="170" alt="streak graph" />
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=slm&theme=gotham&area=true&hide_border=false&custom_title=Trabelsi%20Ranim's%20Contribution%20Graph" height="300" alt="activity graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=slm&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=false&order=1&custom_title=Trabelsi%20Ranim's%20Github%20Stats" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slm&langs_count=10&layout=compact&theme=vue-dark&hide=Jupyter%20Notebook,Ruby,Scala,Swift&card_width=320" height="150" alt="languages graph" />
+  
+  <img src="https://streak-stats.demolab.com?user=slm&locale=en&mode=daily&theme=vue-dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=slm&radius=16&theme=gotham&area=true&order=5&custom_title=Trabelsi%20Ranim's%20Activity%20Graph" height="300" alt="activity-graph graph" />
 </div>
-
 
 
