@@ -113,8 +113,16 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ranimtrabelsi&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true&custom_title=Trabelsi%20Ranim's%20GitHub%20Stats" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ranimtrabelsi&layout=compact&langs_count=8&theme=vue-dark" height="150" alt="top langs graph" />
-  <img src="https://streak-stats.demolab.com?user=ranimtrabelsi&theme=vue-dark&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ranimtrabelsi&theme=gotham&area=true&radius=16&custom_title=Trabelsi%20Ranim's%20Activity%20Graph" height="300" alt="activity graph" />
+  <!-- Statistiques générales GitHub -->
+  <img src="https://github-readme-stats.vercel.app/api?username=slm&show_icons=true&count_private=true&theme=vue-dark&custom_title=Trabelsi%20Ranim's%20GitHub%20Stats" height="170" alt="stats graph" />
+
+  <!-- Langages les plus utilisés (optimisé selon tes projets) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slm&langs_count=10&layout=compact&theme=vue-dark&hide_border=false&card_width=400&custom_title=Top%20Languages%20Used" height="170" alt="top languages graph" />
+
+  <!-- Streak -->
+  <img src="https://streak-stats.demolab.com?user=slm&theme=vue-dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&custom_title=GitHub%20Streak" height="170" alt="streak graph" />
+
+  <!-- Activité graphique -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=slm&theme=gotham&area=true&hide_border=false&custom_title=Trabelsi%20Ranim's%20Contribution%20Graph" height="300" alt="activity graph" />
 </div>
+
